@@ -1,0 +1,45 @@
+Tu sitio cuenta sobre Paisajes de Catamarca. Muy buena estética. No tienes enlaces externos a otros sitios. Los enlaces internos funcionan correctamente. Realizaste 3 archivo .html que forman parte de tu página. Estas utilizando adecuadamente los nombres de archivos y la estructura de directorios. Has utilizado CSS en archivo aparte. Insertaste varias imágenes. No usaste tabla (table-tr-td). Utilizaste varias etiquetas de semántica HTML.
+
+
+Datos útiles
+
+Secretaría de Turismo de Catamarca
+
+Teléfono: 0810 777 4321 de lunes a lunes de 9 a 21 hs
+Whatsapp: +54 9 383 4 225848
+E-mail: infoturismo@catamarca.gov.ar
+Facebook: https://www.facebook.com/TurismoCatamarca/
+Twitter: https://www.facebook.com/TurismoCatamarca/
+Instagram: https://www.instagram.com/turismocatamarca/
+Youtube: https://www.instagram.com/turismocatamarca/
+
+<body>
+<table class="table">
+<caption>Secretaría de Turismo de Catamarca</caption>
+<colgroup>
+<col class="col1">
+<col class="col2">
+</colgroup>
+<thead>
+<tr class="table_row">
+<td class="table_data">Teléfono:</td>
+<td class="table_data">0810 777 4321 de lunes a lunes de 9 a 21 hs</td>
+</tr>
+<tr class="table_row">
+<td class="table_data">Whatsapp: </td>
+<td class="table_data">+54 9 383 4 225848</td>
+</tr>
+<tr class="table_row">
+<td class="table_data">E-mail:</td>
+<td class="table_data">infoturismo@catamarca.gov.ar</td>
+</tr>
+<tr class="table_row">
+</tr>
+<td class="table_data">Facebook:</td>
+<td class="table_data">https://www.facebook.com/TurismoCatamarca</td>
+</tr>
+<td class="table_data">Twitter:</td>
+<td class="table_data">https://www.facebook.com/TurismoCatamarca</td>
+</tr>
+<td class="table_data">Instagram:</td>
+<td class="table_data">

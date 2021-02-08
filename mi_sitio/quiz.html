@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>¡Jugá con Nosotros!</title>
+    <link href="css/style.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <script src="js/main.js"></script>
+
+</head>
+
+
+<body>
+    <h1>¡Jugá con Nosotros!</h1>
+
+
+    <form id="quiz" name="quiz">
+
+        <p class="questions">Cuál es el volcán más alto del mundo ubicado en Catamarca?</p>
+        <input id="textbox" type="text" name="question1">
+
+        <p class="questions">¿En que región del país se encuentra Catamarca?</p>
+        <input type="radio" id="mc" name="question2" value="Región del Norte Grande Argentino"> Región del Norte Grande Argentino<br>
+        <input type="radio" id="mc" name="question2" value="Patagonia"> Patagonia<br>
+
+        <p class="questions">¿La geografía de Catamarca está conformada en un 70 % por qué tipo de relieve?</p>
+
+        <input type="radio" id="mc" name="question3" value="Montaña"> Montaña<br>
+        <input type="radio" id="mc" name="question3" value="Llanura"> Llanura<br>
+
+
+        <input id="button" type="button" value="¡Listo, terminé de responder!" onclick="check();">
+
+
+    </form>
+
+    <div id="after_submit">
+        <p id="number_correct"></p>
+        <p id="message"></p>
+        <img id="picture">
+    </div>
+
+</html>
+
+</body>

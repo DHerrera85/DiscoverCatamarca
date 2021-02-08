@@ -1,0 +1,59 @@
+body {
+    color: #bd2130;
+}
+
+h1 {
+    color: blue;
+    font-family: 'Roboto', sans-serif;
+    font-size: 300%;
+    text-align: center;
+}
+
+h2 {
+    color: green;
+    font-family: arial;
+    font-size: 200%;
+}
+
+p {
+    color: #990000;
+    /*este es color Naranja*/
+    font-family: arial;
+    font-size: 160%;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.caracteristicas {
+    color: teal;
+    font-family: arial;
+    font-size: 120%;
+}
+
+body {
+    background-color: #66ff66;
+}
+
+h3 {
+    color: blue;
+}
+
+h4 {
+    color: orange;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+div {
+    color: red;
+}
+
+img {
+    width: 70%;
+    display: block;
+}
+
+.table .table_data .table_head {
+    border: 1px solid black;
+    border-spacing: 40px;
+}
